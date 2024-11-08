@@ -1,0 +1,12 @@
+# Node and Python dependencies
+node_modules/
+consulting_website_ENV/
+
+# Ignoring database and cache files
+db.sqlite3
+__pycache__/
+
+# Static build files
+staticfiles/
+dist/
+.DS_Store
